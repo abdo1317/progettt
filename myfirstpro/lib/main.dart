@@ -29,7 +29,7 @@ class _XappState extends State<Xapp> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "Abderrahmane",
+          "Abderrahmane bari",
           style: TextStyle(fontSize: 20, fontWeight: FontWeight.w600),
         ),
       ),
